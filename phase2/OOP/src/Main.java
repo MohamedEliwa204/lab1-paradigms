@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("hello in OOP calcuator!");
+        System.out.println("hello in my calcuator!");
         System.out.println("Type 'Q' or ' 'q' to exit");
         System.out.println("enter expression:");
 
