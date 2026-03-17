@@ -1,0 +1,10 @@
+# Ignore C compiled binaries
+*.exe
+*.o
+*.out
+
+# Ignore Java compiled classes
+*.class
+
+# Ignore VS Code workspace settings
+.vscode/
